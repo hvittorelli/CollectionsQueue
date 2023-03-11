@@ -1,0 +1,15 @@
+C:\Users\missh\source\repos\CIT195\CollectionsQueue\CollectionsQueue\bin\Debug\net6.0\CollectionsQueue.exe
+C:\Users\missh\source\repos\CIT195\CollectionsQueue\CollectionsQueue\bin\Debug\net6.0\CollectionsQueue.deps.json
+C:\Users\missh\source\repos\CIT195\CollectionsQueue\CollectionsQueue\bin\Debug\net6.0\CollectionsQueue.runtimeconfig.json
+C:\Users\missh\source\repos\CIT195\CollectionsQueue\CollectionsQueue\bin\Debug\net6.0\CollectionsQueue.dll
+C:\Users\missh\source\repos\CIT195\CollectionsQueue\CollectionsQueue\bin\Debug\net6.0\CollectionsQueue.pdb
+C:\Users\missh\source\repos\CIT195\CollectionsQueue\CollectionsQueue\obj\Debug\net6.0\CollectionsQueue.csproj.AssemblyReference.cache
+C:\Users\missh\source\repos\CIT195\CollectionsQueue\CollectionsQueue\obj\Debug\net6.0\CollectionsQueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\missh\source\repos\CIT195\CollectionsQueue\CollectionsQueue\obj\Debug\net6.0\CollectionsQueue.AssemblyInfoInputs.cache
+C:\Users\missh\source\repos\CIT195\CollectionsQueue\CollectionsQueue\obj\Debug\net6.0\CollectionsQueue.AssemblyInfo.cs
+C:\Users\missh\source\repos\CIT195\CollectionsQueue\CollectionsQueue\obj\Debug\net6.0\CollectionsQueue.csproj.CoreCompileInputs.cache
+C:\Users\missh\source\repos\CIT195\CollectionsQueue\CollectionsQueue\obj\Debug\net6.0\CollectionsQueue.dll
+C:\Users\missh\source\repos\CIT195\CollectionsQueue\CollectionsQueue\obj\Debug\net6.0\refint\CollectionsQueue.dll
+C:\Users\missh\source\repos\CIT195\CollectionsQueue\CollectionsQueue\obj\Debug\net6.0\CollectionsQueue.pdb
+C:\Users\missh\source\repos\CIT195\CollectionsQueue\CollectionsQueue\obj\Debug\net6.0\CollectionsQueue.genruntimeconfig.cache
+C:\Users\missh\source\repos\CIT195\CollectionsQueue\CollectionsQueue\obj\Debug\net6.0\ref\CollectionsQueue.dll
